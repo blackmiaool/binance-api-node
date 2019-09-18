@@ -1,4 +1,4 @@
-import Html5WebSocket from 'html5-websocket'
+import Html5WebSocket from 'ws'
 import ReconnectingWebSocket from 'reconnecting-websocket'
 
 export default url => {
